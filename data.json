@@ -1,10 +1,21 @@
 {
     "Employees": [
-     {"id": 1, "name": "Krish", "salary": "40K"},
-     {"id": 2, "name": "Naik", "salary": "90K"},
-     {"id": 3, "name": "SpaceX", "salary": "70K"},
-     {"id": 4, "name": "Tesla", "salary": "80K"},
-     {"id": 5, "name": "Eminem", "salary": "60K"}
+     {  "id": 1, 
+        "name": "Krish", 
+        "salary": "40K"
+     },
+     {  "id": 2, 
+        "name": "Naik", 
+        "salary": "50K"
+     },
+     {  "id": 3, 
+        "name": "Krisha", 
+        "salary": "60K"
+     }, 
+     {  "id": 4, 
+        "name": "Trish", 
+        "salary": "90K"
+     }     
     ]
 }
 
